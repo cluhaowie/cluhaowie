@@ -9,5 +9,5 @@
 
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=cluhaowie&hide_rank=true&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=cluhaowie">
 </p>
